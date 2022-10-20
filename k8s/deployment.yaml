@@ -52,7 +52,7 @@ spec:
     spec:
       containers:
         - name: web
-          image: akira78/kube-news:v1
+          image: akira78/kube-news:{{TAG}}
           ports:
           - containerPort: 8080
           env:
