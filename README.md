@@ -1,1 +1,2 @@
-# kube-news
+* kube-news
+
